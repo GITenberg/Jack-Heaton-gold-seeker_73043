@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '37103'
     url: http://www.gutenberg.org/2009/agents/37103
     wikipedia: https://en.wikipedia.org/wiki/Morgan_Dennis
+covers:
+- cover_type: archival
+  image_path: 73043-h/images/cover.jpg
 creator:
   author:
     agent_name: Collins, A. Frederick (Archie Frederick)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2266
     wikipedia: https://en.wikipedia.org/wiki/Archie_Frederick_Collins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73043#Jack-Heaton-gold-seeker
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
 identifiers:
